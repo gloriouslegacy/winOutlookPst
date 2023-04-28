@@ -1,0 +1,10 @@
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\bin\Debug\pstFinder.exe.config
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\bin\Debug\pstFinder.exe
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\bin\Debug\pstFinder.pdb
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\obj\Debug\pstFinder.csproj.AssemblyReference.cache
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\obj\Debug\pstFinder.Form1.resources
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\obj\Debug\pstFinder.Properties.Resources.resources
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\obj\Debug\pstFinder.csproj.GenerateResource.cache
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\obj\Debug\pstFinder.csproj.CoreCompileInputs.cache
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\obj\Debug\pstFinder.exe
+C:\Users\bigboss01\Downloads\ezBAK_202304010001\cShape\pstFinder\obj\Debug\pstFinder.pdb
